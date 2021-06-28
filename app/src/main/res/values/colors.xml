@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FF9800</color>
+
+    <!-- Theme Colors : -->
+    <color name="light_Background">#ECF0F3</color>
+    <color name="second_color">#D1D9E6</color>
+    <color name="dark_color">#193566</color>
+
+    <!-- Text Colors : -->
+    <color name="text_color">#193566</color>
+    <color name="text_second_color">#A3958E</color>
+    <color name="hint_text_color">#BEBFC3</color>
+    <color name="selected_text">#2E2929</color>
+
+
+    <!-- Weather Colors : -->
+    <color name="mostly_clear_Color">#2262CF</color>
+    <color name="cloudy_Color">#187882</color>
+    <color name="clear_Color">#9E23CC</color>
+    <color name="rain_Color">#6153B1</color>
+    <color name="partly_cloudy_Color">#00C9B0</color>
+    <color name="thunderstorm_Color">#41ABF1</color>
+    <color name="sunny_Color">#FFBE5E</color>
+
+</resources>

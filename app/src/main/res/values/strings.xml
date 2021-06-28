@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Med Weather</string>
+    <string name="app_logo">Mohamed bouabidi Weather</string>
+    <string name="app_footer">PROJET DE FIN D ETUDE</string>
+
+    <string name="username">USERNAME</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="confirm_password">CONFIRM PASSWORD</string>
+
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+
+    <string name="sign_in_link">Already have an account? Sign in</string>
+    <string name="sign_up_link">Don t have an account? Sign up</string>
+
+    <string name="sign_out">SIGN OUT</string>
+    <string name="new_account">Create new account</string>
+
+    <string name="forgot_psw">Forgot ?</string>
+
+    <string name="ok">OK</string>
+    <string name="validation_msg">Validation message</string>
+    <string name="login_failure_msg">Login Failed!</string>
+    <string name="error_msg">Error :</string>
+    <string name="verify_email">Verify Now</string>
+    <string name="verify_your_email">Your email is not verified yet!</string>
+
+    <string name="morning_time">08:00 am</string>
+    <string name="morning_degree">17°C</string>
+    <string name="afternoon_time">01:00 pm</string>
+    <string name="afternoon_degree">26°C</string>
+    <string name="evening_time">10:00 pm</string>
+    <string name="evening_degree">19°C</string>
+
+    <string name="item_temp">--°C</string>
+    <string name="item_date">Day</string>
+
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+
+    <string name="current_weather_type">Unknown</string>
+    <string name="current_temperature">--</string>
+    <string name="current_city">City</string>
+    <string name="current_country">Country</string>
+
+    <string name="weather_icon">weather icon</string>
+    <string name="today">Today</string>
+    <string name="this_week">This week</string>
+    <string name="coma">,</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search by city name</string>
+
+    <!--
+    <string name="connect_google">CONNECT WITH GOOGLE</string>
+    <string name="register_google">REGISTER WITH GOOGLE</string>
+    -->
+
+</resources>

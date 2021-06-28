@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<soup.neumorphism.NeumorphCardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/item_card"
+        style="@style/Widget.Neumorph.Button"
+        app:neumorph_shadowElevation="6dp"
+        app:neumorph_shadowColorLight="#00FFFFFF"
+        app:neumorph_shadowColorDark="#266A6A6A"
+        android:layout_centerHorizontal="true"
+
+        android:layout_width="360dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingHorizontal="25dp"
+        android:background="@color/light_Background"
+        >
+
+        <TextView
+            android:id="@+id/item_date"
+            android:layout_width="180dp"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/josefin_sans_semibold"
+            android:text="@string/morning_time"
+            android:textColor="@color/mostly_clear_Color"
+            android:textSize="24sp"
+            android:gravity="center_vertical"/>
+        <Space
+            android:layout_width="10dp"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:id="@+id/item_temp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/morning_degree"
+            android:fontFamily="@font/josefin_sans_semibold"
+            android:textColor="#5B5B5B"
+            android:textSize="24sp"
+            android:gravity="center_vertical"/>
+    </LinearLayout>
+        <ImageView
+            android:id="@+id/item_icon"
+            android:layout_width="60dp"
+            android:src="@drawable/d02"
+            android:layout_height="match_parent"
+            android:paddingStart="10dp"
+            android:paddingEnd="0dp"
+            android:gravity="center_vertical"
+            android:contentDescription="@string/weather_icon"
+            android:layout_gravity="right"
+            android:background="@drawable/daily_icons_background"
+            />
+    </soup.neumorphism.NeumorphCardView>
+
